@@ -1,6 +1,4 @@
-# Project Title
-
-Unity HLSL shader for VRChat
+# Unity HLSL shader for VRChat
 
 ## Description
 
@@ -11,7 +9,7 @@ The shader includes features that I most commonly use such as:
 	-Emission map with color adjust
 	-Cube reflections with strength slider, mask. Interpolated between multiplicative and additive
 	-Attenuation mixed with shadow ramp
-	-Sh9, fourlight, directional light with shadow receive and casting
+	-Sh9, four-light, directional light with shadow receive and casting
 	-HSV adjustments
 	-Shadow color can be changed
 
@@ -45,3 +43,7 @@ Attribution 4.0 International (CC BY 4.0)
 ## Acknowledgments
 
 * [catlikecoding] https://catlikecoding.com/unity/tutorials/
+
+## Examples
+![alt text](https://i.imgur.com/b0jDPNp.png)
+![alt text](https://i.imgur.com/Ni6bY6y.png)
