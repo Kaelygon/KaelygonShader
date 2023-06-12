@@ -27,7 +27,7 @@ Shader "Kaelygon/KaelReflect"
 		_Value ("Value", range(0,3)) = 1
 		_CubeAdd( "Cube Multiply-Add", range(0,1) ) = 0.5
 		_ShadowAdd( "Shadow Add", range(0,1) ) = 0
-		_ShadowMult( "Shadow Multiply", range(0,1) ) = 0
+		_ShadowMult( "Shadow Multiply", range(0,1) ) = 1
 	}
 
 	SubShader 
